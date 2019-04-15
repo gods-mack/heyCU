@@ -1,3 +1,3 @@
-# In this Repostry We have a ChatBOt Allpication 
-# GUI is build up Pyhton Tkinter
-# Library Used ChatterBot
+# In this Repositry We have a ChatBOt Appication 
+## GUI is build up by Python Tkinter
+##  Library Used ChatterBot
