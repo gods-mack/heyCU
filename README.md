@@ -1,3 +1,6 @@
 # In this Repositry We have a ChatBOt Application 
-## GUI is build up by Python Tkinter
-##  Library Used ChatterBot
+### GUI:   build up by Python based Tkinter Lib.
+#### requiremnts:
+   * you have install chatterbot python lib.
+   * to install this Lib. 
+   ``` pip install chatterbot ```
